@@ -1,4 +1,4 @@
-# Memory Game
+# Hangman Game
 
 Try yourself: [Live demo](https://voice2post.netlify.app/)
 
