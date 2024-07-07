@@ -40,12 +40,12 @@ You need to guess the word, with numbers of letters represented by the number of
 
 2. Intermediate screen
 
-![Congratulations screen](./assets/intermediate-screen.png)
+![Intermediate screen](./assets/intermediate-screen.png)
 
 
-2. Final screen
+3. Final screen
 
-![Congratulations screen](./assets/final-screen.png)
+![Final screen](./assets/final-screen.png)
 
 
 
