@@ -4,7 +4,7 @@ Try yourself: [Live demo](https://voice2post.netlify.app/)
 
 
 ## Description
-With you buddy waiting to be saved, you just need to guess the word in fixed number of tries or your friend dies!
+With your buddy waiting to be saved, you just need to guess the word in fixed number of tries or your friend dies!
 
 
 ## Instructions
